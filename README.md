@@ -1,1 +1,1 @@
-# Student_Academic_Performance_Prediction_Model
+# Student Academic Performance Prediction Model
